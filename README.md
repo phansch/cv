@@ -2,7 +2,8 @@
 
 **Installing pdflatex + texlive**
 
-    sudo apt-get install texlive texlive-lang-german
+    sudo apt-get install texlive texlive-lang-german /
+      texlive-latex-extra
 
 **Re-generating the PDF**
 
